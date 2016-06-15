@@ -175,9 +175,9 @@ public class LoginActivity extends BaseMvpActivity<LoginView,LoginPresenter<Logi
 所以在使用MVP的过程中，尽量不要让view过度依赖presenter，把presenter看成是主角，你可能会更好地把你的代码写得更优雅
 
 
-文章demo地址：
+Blog：
 
-> github：https://github.com/122627018/BaseMVP
+> blog：http://blog.csdn.net/qq122627018/article/details/51684882
 
 
 
